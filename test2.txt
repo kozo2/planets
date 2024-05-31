@@ -1,1 +1,3 @@
 240531 
+
+This line added to KOZO2/test2.txt 
